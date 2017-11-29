@@ -206,6 +206,14 @@
     <Content Include="IMAGES\a3.jpg" />
     <Content Include="IMAGES\a4.jpg" />
     <Content Include="IMAGES\a5.jpg" />
+    <Content Include="IMAGES\FundTransfer.png" />
+    <Content Include="IMAGES\issue2.png" />
+    <Content Include="IMAGES\Oxygen-Icons.org-Oxygen-Places-folder-tar.ico" />
+    <Content Include="IMAGES\reciet.png" />
+    <Content Include="IMAGES\reorder.png" />
+    <Content Include="IMAGES\stock.png" />
+    <Content Include="IMAGES\stock2.png" />
+    <Content Include="IMAGES\stocktake.png" />
     <Content Include="Scripts\app\inspinia.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
