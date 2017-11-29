@@ -1,0 +1,110 @@
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.dll.config
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.pdb
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Antlr3.Runtime.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.SqlServer.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Newtonsoft.Json.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Owin.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Helpers.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Mvc.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Optimization.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Razor.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\WebGrease.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.SqlServer.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Newtonsoft.Json.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Helpers.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Mvc.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Optimization.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Razor.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Antlr3.Runtime.pdb
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.csprojResolveAssemblyReference.cache
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.dll
+C:\Users\SANTHOSH\Desktop\DesignTemplate\WB0R5L90S\inspinia_v2.7.1\ASPNET_MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.pdb
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.dll.config
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.pdb
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Antlr3.Runtime.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\EntityFramework.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\EntityFramework.SqlServer.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Google.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Web.Infrastructure.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Newtonsoft.Json.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Owin.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Helpers.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Mvc.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Optimization.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Razor.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Deployment.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Razor.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\WebGrease.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\EntityFramework.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\EntityFramework.SqlServer.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Newtonsoft.Json.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Helpers.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Mvc.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Optimization.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.Razor.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Deployment.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Razor.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Antlr3.Runtime.pdb
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Google.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.csprojResolveAssemblyReference.cache
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.dll
+F:\SANTHOSH G\cormsquare\inventory management\inventory app\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.pdb
