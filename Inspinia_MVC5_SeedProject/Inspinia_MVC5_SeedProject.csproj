@@ -201,6 +201,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="IMAGES\a1.jpg" />
+    <Content Include="IMAGES\a2.jpg" />
+    <Content Include="IMAGES\a3.jpg" />
+    <Content Include="IMAGES\a4.jpg" />
+    <Content Include="IMAGES\a5.jpg" />
     <Content Include="Scripts\app\inspinia.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
