@@ -201,6 +201,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="IMAGES\19601500_1478875102199255_3024684791960832803_n.jpg" />
     <Content Include="IMAGES\a1.jpg" />
     <Content Include="IMAGES\a2.jpg" />
     <Content Include="IMAGES\a3.jpg" />
@@ -208,6 +209,7 @@
     <Content Include="IMAGES\a5.jpg" />
     <Content Include="IMAGES\FundTransfer.png" />
     <Content Include="IMAGES\issue2.png" />
+    <Content Include="IMAGES\logos.png" />
     <Content Include="IMAGES\Oxygen-Icons.org-Oxygen-Places-folder-tar.ico" />
     <Content Include="IMAGES\reciet.png" />
     <Content Include="IMAGES\reorder.png" />

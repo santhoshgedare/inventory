@@ -2,11 +2,15 @@
     <nav class="navbar navbar-static-top white-bg" role="navigation" style="margin-bottom: 0">
         <div class="navbar-header">
             <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
-            <form role="search" class="navbar-form-custom" method="post" action="">
+            <div class="main-header" style="margin: 15px 5px 5px 11px; display:inline-block;">
+                <img src="~/IMAGES/logos.png" style="height: 30px; width: auto;" />
+                <strong> - Sourcing and e-Settlements</strong>
+            </div> 
+            @*<form role="search" class="navbar-form-custom" method="post" action="">
                 <div class="form-group">
                     <input type="text" placeholder="Search for something..." class="form-control" name="top-search" id="top-search">
                 </div>
-            </form>
+            </form>*@
         </div>
         @Html.Partial("_LoginPartial")
     </nav>
