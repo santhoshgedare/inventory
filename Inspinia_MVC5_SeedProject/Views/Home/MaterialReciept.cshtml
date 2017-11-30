@@ -22,7 +22,6 @@
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="ibox float-e-margins">
-               
                 <div class="ibox-content">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -63,97 +62,154 @@
                                     <label class="control-label">GST NO:</label>
                                     <input type="text" class="form-control" id="txtInvoiceNo" placeholder="GST Number"/>
                                 </div>
-                                <div class="col-lg-12 text-center">
-                                    <button class="btn btn-primary" id="btnSubmit">Submit</button>
+                                <div class="form-group col-lg-4">
+                                    <label class="control-label">LOCATION:</label>
+                                    <select name="status" id="status" class="form-control">
+                                        <option value="1" selected="">Select location</option>
+                                        <option>Delhi</option>
+                                        <option>Noida</option>
+                                        <option>Gurgaon</option>
+                                        <option>Kanpur</option>
+                                    </select>
                                 </div>
+                                <div class="form-group col-lg-4">
+                                    <label class="control-label">BRANCH:</label>
+                                    <input type="text" class="form-control" id="txtInvoiceNo" placeholder="Branch" />
+                                </div>
+                                <div class="form-group col-lg-4">
+                                    <label class="control-label">COST CENTER:</label>
+                                    <input type="text" class="form-control" id="txtInvoiceNo" placeholder="Cost Center" />
+                                </div>
+                                <div class="form-group col-lg-12">
+                                    <label class="control-label">SUPPLIER ADDRESS: </label>
+                                    <textarea type="text" class="form-control" id="txtInvoiceNo" placeholder="Supplier Address" rows="2" style="resize:none;"></textarea>
+                                </div>
+                               
                             </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ibox-content">
+                    <h3 class="text-uppercase">Materials List</h3>
+                    <div class="row">
+                        <table class="table table-hover table-striped">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Item Code</th>
+                                    <th>Name</th>
+                                    <th>Description</th>
+                                    <th>Category</th>
+                                    <th>Quantity</th>
+                                    <th>Unit Price</th>
+                                    <th>Total Price</th>
+                                    <th>Actions</th>
+                                    <th>Qty accepted</th>
+                                    <th>Qty rejected</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Item0001</td>
+                                    <td>LED FLat Television</td>
+                                    <td>Sony</td>
+                                    <td>Electronics</td>
+                                    <td>6</td>
+                                    <td>30,000</td>
+                                    <td>18,0000</td>
+                                    <td class="btn-group"><button id="btnAccept" class="btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal6">Accept</button></td>
+                                    <td>3</td>
+                                    <td>3</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Item0002</td>
+                                    <td>Soccer Boot</td>
+                                    <td>Adidas</td>
+                                    <td>Sports</td>
+                                    <td>20</td>
+                                    <td>4000</td>
+                                    <td>80,000</td>
+                                    <td class="btn-group"><button id="btnAccept" class="btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal6">Accept</button></td>
+                                    <td>10</td>
+                                    <td>10</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Item0003</td>
+                                    <td>Chairs for Head Office</td>
+                                    <td>Office Chair</td>
+                                    <td>Furniture</td>
+                                    <td>300</td>
+                                    <td>2500</td>
+                                    <td>7,5000</td>
+                                    <td class="btn-group"><button id="btnAccept" class="btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal6">Accept</button></td>
+                                    <td>1750</td>
+                                    <td>750</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>Item0004</td>
+                                    <td>Laptop for employees</td>
+                                    <td>Hp,Dell,VAIO</td>
+                                    <td>Electronics</td>
+                                    <td>50</td>
+                                    <td>45,000</td>
+                                    <td>6,50,000</td>
+                                    <td class="btn-group"><button id="btnAccept" class="btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal6">Accept</button></td>
+                                    <td>40</td>
+                                    <td>10</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>Item0005</td>
+                                    <td>Laptop</td>
+                                    <td>Hp,Dell</td>
+                                    <td>Electronics</td>
+                                    <td>20</td>
+                                    <td>33,000</td>
+                                    <td>6,60,000</td>
+                                    <td class="btn-group"><button id="btnAccept" class="btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal6">Accept</button></td>
+                                    <td>17</td>
+                                    <td>3</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="col-lg-6">
+                            <button class="btn btn-success btn-sm" id="btnRemarks">Remarks</button>
+                        </div>
+                        <div class="col-lg-6 text-right">
+                            <h2 class="control-label text-navy">Total: <i class="fa fa-inr"></i> 34,000</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="ibox-footer">
+                    <div class="row">
+                        <div class="col-lg-12 text-center">
+                            <button class="btn btn-primary" id="btnSubmit">Submit</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="ibox float-e-margins">
-                <div class="ibox-title">
-                    <div class="row">
-                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                            <h5>Materials List</h5>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right">
-                            <div class="ibox-tools">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="ibox-content">
-                    <div class="">
-                        <table class="table table-hover table-striped">
-                            <thead>
-                                <tr>
-                                    <th>#</th>
-                                    <th>Item</th>
-                                    <th>Name</th>
-                                    <th>Description</th>
-                                    <th>Category</th>
-                                    <th>Quantity</th>
-                                    <th>UOM</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>1</td>
-                                    <td>TV</td>
-                                    <td>LED FLat Television</td>
-                                    <td>Sony</td>
-                                    <td>Electronics</td>
-                                    <td>6</td>
-                                    <td>Numbers</td>
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>Sport Shoes</td>
-                                    <td>Soccer Boot</td>
-                                    <td>Adidas</td>
-                                    <td>Sports</td>
-                                    <td>20</td>
-                                    <td>Pairs</td>
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Chairs for HO</td>
-                                    <td>Chairs for Head Office</td>
-                                    <td>Office Chair</td>
-                                    <td>Furniture</td>
-                                    <td>300</td>
-                                    <td>Numbers</td>
-                                </tr>
-                                <tr>
-                                    <td>4</td>
-                                    <td>Laptop</td>
-                                    <td>Laptop for employees</td>
-                                    <td>Hp,Dell,VAIO</td>
-                                    <td>Electronics</td>
-                                    <td>300</td>
-                                    <td>Numbers</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-                <div class="ibox-footer">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <button class="btn btn-primary" id="btnRemarks">Remarks</button>
-                        </div>
-                        <div class="col-lg-6 text-right">
-                            <h3 class="control-label text-navy">Total: <i class="fa fa-inr"></i> 34,000</h3>
-                        </div>
-                    </div>
-                </div>
-                </div>
+</section>
+<div class="modal fade in" id="myModal6" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title">Accept Quantity</h4>
+            </div>
+            <div class="modal-body">
+               <label class="control-label">Enter item Quantity you wish to accept:</label>
+                <input type="number" class="form-control" />
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-sm" data-dissmiss="modal">Accept</button>
             </div>
         </div>
-
-</section>
+    </div>
+</div>
