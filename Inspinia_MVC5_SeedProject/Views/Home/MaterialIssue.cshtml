@@ -1,139 +1,126 @@
 ﻿
-
 @{
     ViewBag.Title = "Material Issue";
 }
-
 <!-- Section Name1 -->
 <section class="row wrapper border-bottom white-bg page-heading">
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <h3 class="text-uppercase">
-            Material issue
+            MATERIAL ISSUE
         </h3>
+        <ol class="breadcrumb">
+            <li>Home</li>
+            <li><strong>Material Issue</strong></li>
+        </ol>
     </div>
 </section>
 <!-- Section Name2 -->
 <section class="wrapper wrapper-content animated fadeInRight">
-    <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="ibox float-e-margins">
-                <div class="ibox-title">
-                    <div class="row">
-                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                            <h5>
-                                Section Heading will come here
-                            </h5>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right">
-                            <div class="ibox-tools">
-                                Search Textbox or any Buttons will come here
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-content">
+
+                <div class="row m-b-md">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <form class="form-inline">
+                            <label class="control-label">ISSUE TO :&nbsp;&nbsp;</label>
+                            <div class="form-group">
+                                <input type="text" class="form-control input-sm" id="txtIssueTo" placeholder="Enter Employee No." />
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="ibox-content">
-                    <div class="row">
-                        <form>
-                            <div class="form-group col-lg-2 text-center">
-                                <label class="control-label">Issue To:</label>
-                            </div>
-                            <div class="form-group col-lg-3 col-md-5 col-sm-6 col-xs-12">
-                                <input type="text" class="form-control" id="txtIssueTo" placeholder="Enter Employee No." />
-                            </div>
-                            <div class="form-group col-lg-3 col-md-5 col-sm-6 col-xs-12">
-                                <input type="text" class="form-control" id="txtIssueTo" placeholder="Enter Employee Name" />
-                            </div>
-                            <div class="form-group col-lg-3 col-md-5 col-sm-6 col-xs-12">
-                                <input type="text" class="form-control" id="txtIssueTo" placeholder="Enter Project Name" />
-                            </div>
-                            <div class="col-lg-1">
-                                <button class="btn btn-primary">Go</button>
+                            <div class="form-group">
+                                <input type="text" class="form-control input-sm" id="txtIssueTo" placeholder="Enter Employee Name" />
                             </div>
                         </form>
                     </div>
                 </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-            <div class="ibox float-e-margins">
-                <div class="ibox-content">
-                    <table class="table small table-hover">
-                        <tbody>
-                           
-                           <tr>
-                               <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Name</th>
-                                <td>Santhosh</td>
-                            </tr>
-                            <tr>
-                                <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Employee No.</th>
-                                <td>Santhosh</td>
-                            </tr>
-                            <tr>
-                                <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Department</th>
-                                <td>Santhosh</td>
-                            </tr>
-                            <tr>
-                                <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Location</th>
-                                <td>Santhosh</td>
-                            </tr>
-                            <tr>
-                                <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Project Name</th>
-                                <td>Santhosh</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-            <div class="ibox float-e-margins">
-                <div class="ibox-content">
-                    <table class="table table-striped table-bordered">
-                        <thead>
-                            <tr>
-                                <th>Item</th>
-                                <th>Name</th>
-                                <th>Description</th>
-                                <th>Category</th>
-                                <th>Quantity</th>
-                                <th>UOM</th>
-                            </tr>
-                        </thead>
-                       <tbody>
-                           <tr>
-                               <td>Laptop</td>
-                               <td>Dell</td>
-                               <td>Latest Configurations</td>
-                               <td>Electronics</td>
-                               <td>4</td>
-                               <td>Number</td>
-                           </tr>
-                           <tr>
-                               <td>Mobile</td>
-                               <td>Apple</td>
-                               <td>i7 plus</td>
-                               <td>Electronics</td>
-                               <td>50</td>
-                               <td>Number</td>
-                           </tr>
-                       </tbody>
-                        
-                    </table>
-                </div>
-                <div class="ibox-footer">
-                    <div class="">
-                        <button class="btn btn-primary" id="btnRemarks" type="submit">REMARKS</button>
-                        <div class="col-lg-4 pull-right">
-                            <h3 class="text-right text-navy">TOTAL: <i class="fa fa-inr"></i> 95,500 </h3>
+        
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                        <table class="table small table-hover">
+                            <tbody>
+                                <tr>
+                                    <th class="no-borders"><i class="fa fa-caret-right text-danger"></i> &nbsp;Name</th>
+                                    <td class="no-borders">Manu</td>
+                                </tr>
+                                <tr>
+                                    <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Employee No.</th>
+                                    <td>Emp001</td>
+                                </tr>
+                                <tr>
+                                    <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Department</th>
+                                    <td>Management</td>
+                                </tr>
+                                <tr>
+                                    <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Location</th>
+                                    <td>Banglore</td>
+                                </tr>
+                                <tr>
+                                    <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Project Name</th>
+                                    <td>Inventory</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                <div class="table-responsive">
+                                    <table class="table table-striped table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th>#</th>
+                                                <th>Item Code</th>
+                                                <th>Name </th>
+                                                <th>Description </th>
+                                                <th>Category</th>
+                                                <th>Quantity In Stock</th>
+                                                <th>UOM</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>1</td>
+                                                <td>I001</td>
+                                                <td>Table</td>
+                                                <td>Desktop table for employees</td>
+                                                <td>Furniture</td>
+                                                <td>10</td>
+                                                <td>183</td>
+                                            </tr>
+                                            <tr>
+                                                <td>2</td>
+                                                <td>I002</td>
+                                                <td>Book</td>
+                                                <td>Work book for employees</td>
+                                                <td>Books</td>
+                                                <td>200</td>
+                                                <td>100</td>
+                                            </tr>
+                                            <tr>
+                                                <td>3</td>
+                                                <td>I003</td>
+                                                <td>Mi Phone</td>
+                                                <td>Mobiles for employees</td>
+                                                <td>Electronics</td>
+                                                <td>250</td>
+                                                <td>150</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                <button class="btn btn-sm btn-primary" id="btnRemarks" type="submit">REMARKS</button>
+                                <div class="col-lg-4 pull-right">
+                                    <h3 class="text-right text-navy">TOTAL: <i class="fa fa-inr"></i> 95,500 </h3>
+                                </div>
+                            </div>
+                            </div>
                         </div>
                     </div>
-                    
                 </div>
             </div>
         </div>
-    </div>
 </section>
-
