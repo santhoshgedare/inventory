@@ -10,8 +10,12 @@
 
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
         <h3>
-            ViewStock
+            VIEW STOCK
         </h3>
+        <ol class="breadcrumb"s>
+            <li>Home</li>
+            <li><strong>View Stock</strong></li>
+        </ol>
     </div>
 
     <div class="col-lg-10 col-sm-10 col-sm-10 col-xs-12 text-right">
@@ -19,32 +23,95 @@
     </div>
 </section>
 <!-- Section Name2 -->
-<section class="wrapper wrapper-content animated fadeInRight">
-    <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="ibox float-e-margins">
-                <div class="ibox-title">
-                    <div class="row">
-                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                            <h5>
-                                <!-- Section Heading will come here -->
-                            </h5>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right">
-                            <div class="ibox-tools">
-                                <!-- Search Textbox or any Buttons will come here-->
-                            </div>
-                        </div>
-                    </div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="ibox-content m-b-sm border-bottom">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label class="control-label" for="product_name">ITEM</label>
+                    <input type="text" id="product_name" name="product_name" value="" placeholder="Item Name" class="form-control">
                 </div>
-                <div class="ibox-content">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <!-- Main Content or data will come here -->
-                        </div>
-                    </div>
+            </div>
+            <div class="col-sm-2">
+                <div class="form-group">
+                    <label class="control-label" for="price">CATEGORY</label>
+                    <input type="text" id="price" name="price" value="" placeholder="Category" class="form-control">
+                </div>
+            </div>
+            <div class="col-sm-2">
+                <div class="form-group">
+                    <label class="control-label" for="quantity">QUANTITY</label>
+                    <input type="text" id="quantity" name="quantity" value="" placeholder="Quantity" class="form-control">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label class="control-label" for="status">LOCATION</label>
+                    <select name="status" id="status" class="form-control">
+                        <option value="1" selected="">Select location</option>
+                        <option>Delhi</option>
+                        <option>Noida</option>
+                        <option>Gurgaon</option>
+                        <option>Kanpur</option>
+                    </select>
                 </div>
             </div>
         </div>
     </div>
-</section>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox">
+                <div class="ibox-content">
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Item Code</th>
+                                    <th>Name </th>
+                                    <th>Description </th>
+                                    <th>Category</th>
+                                    <th>Quantity In Stock</th>
+                                    <th>UOM</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>I001</td>
+                                    <td>Table</td>
+                                    <td>Desktop table for employees</td>
+                                    <td>Furniture</td>
+                                    <td>10</td>
+                                    <td>183</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>I002</td>
+                                    <td>Book</td>
+                                    <td>Work book for employees</td>
+                                    <td>Books</td>
+                                    <td>200</td>
+                                    <td>100</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>I003</td>
+                                    <td>Mi Phone</td>
+                                    <td>Mobiles for employees</td>
+                                    <td>Electronics</td>
+                                    <td>250</td>
+                                    <td>150</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
