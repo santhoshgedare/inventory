@@ -58,5 +58,10 @@ namespace Inspinia_MVC5_SeedProject.Controllers
 
             return View();
         }
+        public ActionResult Reports()
+        {
+
+            return View();
+        }
     }
 }

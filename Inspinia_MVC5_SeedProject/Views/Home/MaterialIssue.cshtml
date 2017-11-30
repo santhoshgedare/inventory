@@ -36,26 +36,27 @@
                                     <input type="text" class="form-control input-sm" id="txtIssueTo" placeholder="Enter Employee Name" />
                                 </div>
                             </form>
+
                             @*<p>
-                                <label for="name">Name :</label>
-                                <smal id="name">MANu MOAHAN</smal>
-                            </p>
-                            <p>
-                                <label for="1">Employee No.:</label>
-                                <smal id="1">Emp001</smal>
-                            </p>
-                            <p>
-                                <label for="2">Department:</label>
-                                <smal id="2">Management</smal>
-                            </p>
-                            <p>
-                                <label for="3">Location :</label>
-                                <smal id="3">Banglore</smal>
-                            </p>
-                            <p>
-                                <label for="4">Project Name:</label>
-                                <smal id="4">Inventory</smal>
-                            </p>*@
+                                    <label for="name">Name :</label>
+                                    <smal id="name">MANu MOAHAN</smal>
+                                </p>
+                                <p>
+                                    <label for="1">Employee No.:</label>
+                                    <smal id="1">Emp001</smal>
+                                </p>
+                                <p>
+                                    <label for="2">Department:</label>
+                                    <smal id="2">Management</smal>
+                                </p>
+                                <p>
+                                    <label for="3">Location :</label>
+                                    <smal id="3">Banglore</smal>
+                                </p>
+                                <p>
+                                    <label for="4">Project Name:</label>
+                                    <smal id="4">Inventory</smal>
+                                </p>*@
                             <table class="table small table-hover">
                                 <tbody>
                                     <tr>
@@ -71,17 +72,22 @@
                                         <td>Management</td>
                                     </tr>
                                     <tr>
-                                        <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Location</th>
-                                        <td>Banglore</td>
-                                    </tr>
-                                    <tr>
                                         <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Project Name</th>
                                         <td>Inventory</td>
                                     </tr>
+                                    <tr>
+                                        <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Address</th>
+                                        <td>4th T-Block Jaynagr Banglore</td>
+                                    </tr>
+                                    <tr>
+                                        <th><i class="fa fa-caret-right text-danger"></i> &nbsp;Location</th>
+                                        <td>Karnataka</td>
+                                    </tr>
+
                                 </tbody>
                             </table>
                         </div>
-                     
+
                     </div>
                 </div>
                 <div class="ibox-content">
@@ -94,9 +100,10 @@
                                             <th>#</th>
                                             <th>Item Code</th>
                                             <th>Name </th>
+                                            <th>HSN/SAC Code</th>
                                             <th>Description </th>
                                             <th>Category</th>
-                                            <th>Quantity In Stock</th>
+                                            <th style="width:150px;">Quantity</th>
                                             <th>UOM</th>
                                         </tr>
                                     </thead>
@@ -105,44 +112,112 @@
                                             <td>1</td>
                                             <td>I001</td>
                                             <td>Table</td>
+                                            <td>HSN1234</td>
                                             <td>Desktop table for employees</td>
                                             <td>Furniture</td>
-                                            <td>10</td>
+                                            <td><input type="text" class="form-control input-sm" /></td>
                                             <td>Numbers</td>
                                         </tr>
                                         <tr>
                                             <td>2</td>
                                             <td>I002</td>
                                             <td>Book</td>
+                                            <td>HSN1234</td>
                                             <td>Work book for employees</td>
                                             <td>Books</td>
-                                            <td>200</td>
+                                            <td><input type="text" class="form-control input-sm" /></td>
                                             <td>Numbers</td>
                                         </tr>
                                         <tr>
                                             <td>3</td>
                                             <td>I003</td>
                                             <td>Mi Phone</td>
+                                            <td>HSN1234</td>
                                             <td>Mobiles for employees</td>
                                             <td>Electronics</td>
-                                            <td>250</td>
+                                            <td><input type="text" class="form-control input-sm" /></td>
+                                            <td>Numbers</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4</td>
+                                            <td>I001</td>
+                                            <td>Table</td>
+                                            <td>HSN1234</td>
+                                            <td>Desktop table for employees</td>
+                                            <td>Furniture</td>
+                                            <td><input type="text" class="form-control input-sm" /></td>
+                                            <td>Numbers</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>I002</td>
+                                            <td>Book</td>
+                                            <td>HSN1234</td>
+                                            <td>Work book for employees</td>
+                                            <td>Books</td>
+                                            <td><input type="text" class="form-control input-sm" /></td>
+                                            <td>Numbers</td>
+                                        </tr>
+                                        <tr>
+                                            <td>6</td>
+                                            <td>I003</td>
+                                            <td>Mi Phone</td>
+                                            <td>HSN1234</td>
+                                            <td>Mobiles for employees</td>
+                                            <td>Electronics</td>
+                                            <td><input type="text" class="form-control input-sm" /></td>
                                             <td>Numbers</td>
                                         </tr>
                                     </tbody>
                                 </table>
                             </div>
                         </div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 m-b">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <button class="btn btn-sm btn-primary" id="btnRemarks" type="submit">REMARKS</button>
-                            <div class="col-lg-4 pull-right">
-                                <h3 class="text-right text-navy">TOTAL: <i class="fa fa-inr"></i> 95,500 </h3>
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <h5>HISTORY</h5>
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                            <div id="listHistory">
+                                                <ul class="list-unstyled">
+                                                    <li> <i class="fa fa-caret-right text-danger" aria-hidden="true"></i> 29/11/2017 11:50 am : Payment Request - PO :PO2323232 PR:PaymentReq0005 : has been created by shelbin@cormsquare.com: <span class="text-danger">[<strong>Remark-</strong> ]</span> </li>
+                                                    <li> <i class="fa fa-caret-right text-danger" aria-hidden="true"></i> 29/11/2017 11:50 am : Payment Request - PO :PO2323232 PR:PaymentReq0005 : has been Approved by compose@sharklasers.com: <span class="text-danger">[<strong>Remark-</strong> aproebrt]</span> </li>
+                                                    <li> <i class="fa fa-caret-right text-danger" aria-hidden="true"></i> 29/11/2017 11:50 am : Payment Request - PO :PO2323232 PR:PaymentReq0005 : has been Approved by reset@sharklasers.com: <span class="text-danger">[<strong>Remark-</strong> dsf]</span> </li>
+                                                    <li> <i class="fa fa-caret-right text-danger" aria-hidden="true"></i> 29/11/2017 11:51 am : Payment Request - PO :PO2323232 PR:PaymentReq0005 : has been Approved by product@sharklasers.com: <span class="text-danger">[<strong>Remark-</strong> dfsg]</span> </li>
+                                                    <li> <i class="fa fa-caret-right text-danger" aria-hidden="true"></i> 29/11/2017 11:51 am : Payment Request - PO :PO2323232 PR:PaymentReq0005 : has been Approved by all Approvers: <span class="text-danger">[<strong>Remark-</strong> ]</span> </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
+
+
+
+
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 m-t-lg">
+                            <button class="btn btn-sm btn-default" id="btnRemarks" type="submit"><i class="fa fa-star"></i> REMARKS</button>
+                            <div class="col-lg-4 pull-right">
+                                <h2 class="text-right text-navy">Total: <i class="fa fa-inr"></i> 95,500 </h2>
+                            </div>
+                        </div>
+                     
+                        
+                        <hr />
+                    </div>
+
+                </div>
+                <div class="ibox-footer">
+                    <div class="row text-center">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <button class="btn btn-primary">Submit</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    
+
 </section>

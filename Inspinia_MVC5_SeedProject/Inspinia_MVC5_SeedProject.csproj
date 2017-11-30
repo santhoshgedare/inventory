@@ -293,6 +293,7 @@
     <Content Include="Views\Home\MaterialReciept.cshtml" />
     <Content Include="Views\Home\ReOrder.cshtml" />
     <Content Include="Views\Home\ProductMaster.cshtml" />
+    <Content Include="Views\Home\Reports.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
