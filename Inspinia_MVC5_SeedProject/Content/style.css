@@ -5725,7 +5725,7 @@ body.body-small .vote-icon {
 }
 #small-chat {
   position: fixed;
-  bottom: 20px;
+  bottom:70px;
   right: 20px;
   z-index: 100;
 }
@@ -5735,8 +5735,8 @@ body.body-small .vote-icon {
   right: -4px;
 }
 .open-small-chat {
-  height: 38px;
-  width: 38px;
+  height: 48px;
+  width: 48px;
   display: block;
   background: #1ab394;
   padding: 9px 8px;
